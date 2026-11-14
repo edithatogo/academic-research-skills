@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Academic Research Skills for Claude Code
+authors:
+- family-names: Wu
+  given-names: Cheng-I
+- name: Academic Research Skills contributors
+repository-code: https://github.com/edithatogo/academic-research-skills
+url: https://github.com/edithatogo/academic-research-skills
+references:
+- type: software
+  title: Academic Research Skills for Claude Code
+  authors:
+  - family-names: Wu
+    given-names: Cheng-I
+  - name: Academic Research Skills contributors
+  repository-code: https://github.com/Imbad0202/academic-research-skills
+  url: https://github.com/Imbad0202/academic-research-skills
